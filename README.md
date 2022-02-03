@@ -1,6 +1,6 @@
-#A checkers AI using the minimax algorithm.
+# A checkers AI using the minimax algorithm.
 
-##ABOUT THE GAME:
+## ABOUT THE GAME:
 It is the modern implementation of the classical Checkers game. It is 
 implemented in python using Minimax Algorithm with the help of 
 popular module pygame.
