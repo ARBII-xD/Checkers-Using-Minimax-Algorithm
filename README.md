@@ -54,3 +54,8 @@ checkers and wins this game
 A single checker can only move and jump going forward if a player can 
 make a capture, he has to make the capture if a player cannot make a 
 move, he loses that wraps up how to play checkers.
+
+## SOME SNAPSOTS OF THE GAME
+![c1](https://user-images.githubusercontent.com/70211234/158061947-c34169d4-d1cf-46b4-91a0-b86e319403ed.png)
+![c3](https://user-images.githubusercontent.com/70211234/158061962-e5a98dad-bd70-4f81-8403-c40da05f6a08.png)
+
